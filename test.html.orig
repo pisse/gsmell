@@ -1,11 +1,12 @@
 <html>
 <body>
 <h1>Hello World</h1>
+<merge>
 <p>My first paragraph.</p>
 <<<<<<< HEAD
 nihao cc
 =======
-nihao aa
+nihao aa bb
 >>>>>>> master
 </body>
 </html>
